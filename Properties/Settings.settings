@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Launcher1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CurrentVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dev78</Value>
+    </Setting>
+    <Setting Name="Ambient" Type="System.String" Scope="User">
+      <Value Profile="(Default)">new</Value>
+    </Setting>
+    <Setting Name="Anti" Type="System.String" Scope="User">
+      <Value Profile="(Default)">new</Value>
+    </Setting>
+    <Setting Name="Blur" Type="System.String" Scope="User">
+      <Value Profile="(Default)">new</Value>
+    </Setting>
+    <Setting Name="Bloom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">new</Value>
+    </Setting>
+    <Setting Name="Dof" Type="System.String" Scope="User">
+      <Value Profile="(Default)">new</Value>
+    </Setting>
+    <Setting Name="Gras" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Terrain" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Mesh" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Shader" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Distance" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Music" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
